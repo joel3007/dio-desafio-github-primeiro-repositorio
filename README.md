@@ -8,3 +8,5 @@ Repositório criado para o Desafio de Projeto.
 [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 
 [Pexels - Repositório de Imagens](https://www.pexels.com/pt-br/)
+
+[HTML Colors Code](https://html-color-codes.info/)
