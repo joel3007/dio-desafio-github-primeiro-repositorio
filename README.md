@@ -6,3 +6,5 @@ Repositório criado para o Desafio de Projeto.
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [MDN - Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
+
+[Pexels - Repositório de Imagens](https://www.pexels.com/pt-br/)
